@@ -28,7 +28,7 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
   final TextEditingController phoneController = TextEditingController();
   File? _selectedImage;
   final ImagePicker _picker = ImagePicker();
-  bool _isLoading = true; // ✅ নতুন loading state
+  bool _isLoading = true; 
 
   @override
   void initState() {
@@ -43,7 +43,7 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
     emailController.text = getProfileRxobj.email ?? '';
     phoneController.text = getProfileRxobj.phone ?? '';
     setState(() {
-      _isLoading = false; // ✅ data আসলে loading বন্ধ
+      _isLoading = false;
     });
   }
 
@@ -141,7 +141,6 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
     );
   }
 
-  // ✅ Shimmer field — আসল field এর মতো একই height/shape
   Widget _shimmerField() {
     return Shimmer.fromColors(
       baseColor: Colors.grey.shade300,
