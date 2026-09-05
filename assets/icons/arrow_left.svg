@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.000000" height="24.000000" fill="none" customFrame="#000000">
+	<g id="arrow-left">
+		<path id="Vector" d="M9.57 5.93018L3.5 12.0002L9.57 18.0702" fill-rule="nonzero" stroke="rgb(48,48,48)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		<path id="Vector" d="M20.4999 12L3.66992 12" stroke="rgb(48,48,48)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		<path id="Vector" d="M24 0L0 0L0 24L24 24L24 0ZM1 23L1 1L23 1L23 23L1 23Z" opacity="0" fill="rgb(48,48,48)" fill-rule="evenodd" transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,24,24)" />
+	</g>
+</svg>

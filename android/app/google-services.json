@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "674817529988",
+    "project_id": "farmers-doorstep",
+    "storage_bucket": "farmers-doorstep.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674817529988:android:28694f3486666d0ed0cad1",
+        "android_client_info": {
+          "package_name": "com.farmerDoorStep.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674817529988-1c01dje020nhjqposuodq20h2g5ai35q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmerDoorStep.app",
+            "certificate_hash": "916d13cc2d9e625fe47948181471f3c4c473458c"
+          }
+        },
+        {
+          "client_id": "674817529988-chsi85iuid7dt79fqaebt1ak1p9f12hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZLPEEVgQVXZG1-M5U6iP3etzZSrptOi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674817529988-chsi85iuid7dt79fqaebt1ak1p9f12hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674817529988-1vtd6vq4euu4e3mdhvuep07gd7c35lkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sizeMatterSwt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

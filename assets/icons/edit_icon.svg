@@ -1,0 +1,13 @@
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.000000" height="20.000000" fill="none" customFrame="#000000">
+	<g id="vuesax/linear/user-edit">
+		<g id="user-edit">
+			<path id="Vector" d="M10 10.0003C7.69885 10.0003 5.83337 8.13485 5.83337 5.83366C5.83337 3.53247 7.69885 1.66699 10 1.66699C12.3012 1.66699 14.1667 3.53247 14.1667 5.83366C14.1667 8.13485 12.3012 10.0003 10 10.0003Z" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<g id="Group">
+				<path id="Vector" d="M13.0583 16.0662C12.9416 16.1829 12.8333 16.3995 12.8083 16.5579L12.6499 17.6828C12.5916 18.0912 12.875 18.3745 13.2833 18.3162L14.4083 18.1579C14.5666 18.1329 14.7916 18.0245 14.9 17.9079L17.8499 14.9579C18.3583 14.4495 18.5999 13.8579 17.8499 13.1079C17.1083 12.3662 16.5166 12.6079 16.0083 13.1162L13.0583 16.0662Z" fill-rule="nonzero" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+				<path id="Vector" d="M15.5834 13.542C15.8334 14.442 16.5333 15.142 17.4333 15.392" fill-rule="nonzero" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			</g>
+			<path id="Vector" d="M2.84167 18.3333C2.84167 15.1083 6.05003 12.5 10 12.5C10.8667 12.5 11.7 12.625 12.475 12.8583" fill-rule="nonzero" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="Vector" opacity="0" />
+		</g>
+	</g>
+</svg>

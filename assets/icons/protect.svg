@@ -1,0 +1,12 @@
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.000000" height="20.000000" fill="none" customFrame="#000000">
+	<g id="vuesax/linear/security-safe">
+		<g id="Group">
+			<path id="Vector" d="M10.425 18.2749C10.15 18.3499 9.84995 18.3499 9.57495 18.2749C5.53328 17.1582 2.57495 13.3416 2.57495 9.26658L2.57495 5.60824C2.57495 4.92491 3.09163 4.14991 3.7333 3.89158L8.37494 1.9916C9.41661 1.5666 10.5916 1.5666 11.6333 1.9916L16.275 3.89158C16.9083 4.14991 17.4333 4.92491 17.4333 5.60824L17.425 9.26658C17.425 13.3416 14.4666 17.1582 10.425 18.2749Z" fill-rule="nonzero" stroke="rgb(123.822,123.822,123.822)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<g id="Group">
+				<path id="Vector" d="M10 10.4168C9.07957 10.4168 8.33337 9.67064 8.33337 8.75016C8.33337 7.82969 9.07957 7.0835 10 7.0835C10.9205 7.0835 11.6667 7.82969 11.6667 8.75016C11.6667 9.67064 10.9205 10.4168 10 10.4168Z" stroke="rgb(123.822,123.822,123.822)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+				<path id="Line" d="M0 0L2.5 0" stroke="rgb(123.822,123.822,123.822)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" transform="matrix(0,1,-1,0,10,10.417)" />
+			</g>
+			<path id="Vector" d="M20 0L0 0L0 20L20 20L20 0ZM1 19L1 1L19 1L19 19L1 19Z" opacity="0" fill="rgb(123.822,123.822,123.822)" fill-rule="evenodd" transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,20,20)" />
+		</g>
+	</g>
+</svg>

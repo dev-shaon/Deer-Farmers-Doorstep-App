@@ -1,0 +1,7 @@
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.000000" height="20.000000" fill="none" customFrame="#000000">
+	<g id="sms">
+		<path id="Vector" d="M5.83329 17.0832C3.33329 17.0832 1.66663 15.8332 1.66663 12.9165L1.66663 7.08317C1.66663 4.1665 3.33329 2.9165 5.83329 2.9165L14.1666 2.9165C16.6666 2.9165 18.3333 4.1665 18.3333 7.08317L18.3333 12.9165C18.3333 15.8332 16.6666 17.0832 14.1666 17.0832L5.83329 17.0832Z" fill-rule="nonzero" stroke="rgb(123.822,123.822,123.822)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		<path id="Vector" d="M14.1667 7.5L11.5584 9.58333C10.7 10.2667 9.2917 10.2667 8.43337 9.58333L5.83337 7.5" fill-rule="nonzero" stroke="rgb(123.822,123.822,123.822)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		<path id="Vector" d="M20 0L0 0L0 20L20 20L20 0ZM1 19L1 1L19 1L19 19L1 19Z" opacity="0" fill="rgb(123.822,123.822,123.822)" fill-rule="evenodd" />
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.000000" height="20.000000" fill="none" customFrame="#000000">
+	<g id="vuesax/linear/user-minus">
+		<g id="user-minus">
+			<path id="Vector" d="M10 10.0003C7.69885 10.0003 5.83337 8.13485 5.83337 5.83366C5.83337 3.53247 7.69885 1.66699 10 1.66699C12.3012 1.66699 14.1667 3.53247 14.1667 5.83366C14.1667 8.13485 12.3012 10.0003 10 10.0003Z" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="Vector" d="M2.84167 18.3333C2.84167 15.1083 6.05003 12.5 10 12.5C10.8 12.5 11.575 12.6083 12.3 12.8083" fill-rule="nonzero" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="Vector" d="M18.2333 15.7753C18.1583 16.1087 18.0249 16.4337 17.8499 16.717C17.2749 17.6837 16.2166 18.3337 15 18.3337C14.1416 18.3337 13.3666 18.0086 12.7833 17.4753C12.5333 17.2586 12.3166 17.0003 12.15 16.717C11.8416 16.217 11.6666 15.6253 11.6666 15.0003C11.6666 14.1003 12.025 13.2753 12.6083 12.6753C13.2166 12.0503 14.0666 11.667 15 11.667C15.9833 11.667 16.8749 12.092 17.4749 12.7753C18.0083 13.367 18.3333 14.1503 18.3333 15.0003C18.3333 15.267 18.3 15.5253 18.2333 15.7753Z" fill-rule="nonzero" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="Vector" d="M16.2416 14.9834L13.7583 14.9834" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="Vector" opacity="0" />
+		</g>
+	</g>
+</svg>

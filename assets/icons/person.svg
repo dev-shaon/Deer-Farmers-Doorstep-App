@@ -1,0 +1,9 @@
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.000000" height="20.000000" fill="none" customFrame="#000000">
+	<g id="vuesax/linear/user">
+		<g id="user">
+			<path id="Vector" d="M9.99992 9.99984C7.69873 9.99984 5.83325 8.13436 5.83325 5.83317C5.83325 3.53198 7.69873 1.6665 9.99992 1.6665C12.3011 1.6665 14.1666 3.53198 14.1666 5.83317C14.1666 8.13436 12.3011 9.99984 9.99992 9.99984Z" stroke="rgb(123.822,123.822,123.822)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="Vector" d="M17.1585 18.3333C17.1585 15.1083 13.9501 12.5 10.0001 12.5C6.05013 12.5 2.8418 15.1083 2.8418 18.3333" fill-rule="nonzero" stroke="rgb(123.822,123.822,123.822)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="Vector" d="M20 0L0 0L0 20L20 20L20 0ZM1 19L1 1L19 1L19 19L1 19Z" opacity="0" fill="rgb(123.822,123.822,123.822)" fill-rule="evenodd" />
+		</g>
+	</g>
+</svg>
